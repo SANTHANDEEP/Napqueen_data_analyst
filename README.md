@@ -1,4 +1,5 @@
-*** Power BI Global Store Dashboard ***
+*** Power BI Global Store Dashboard ***:
+
 Project Overview  
 This project aims to analyze global store sales data and visualize key performance metrics using Power BI. The dashboard provides insights into total sales revenue, sales trends, product performance, and comparisons over time.   
 

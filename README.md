@@ -1,11 +1,11 @@
-*** Power BI Global Store Dashboard ***
+# Power BI Global Store Dashboard 
 
 Project Overview  
 
 This project aims to analyze global store sales data and visualize key performance metrics using Power BI. The dashboard provides insights into total sales revenue, sales trends, product performance, and comparisons over time.   
 
 
-*** Features & Metrics ***  
+# Features & Metrics
 
 Total Sales Revenue (KPI visualization)
 
@@ -18,7 +18,7 @@ Sales Trend Over Time (Area Chart)
 Monthly Sales Comparison (Stacked Column Chart)
 
 
-*** Dataset ***
+# Dataset 
 
 The project uses a Global Superstore CSV dataset, which contains sales-related information such as:
 
@@ -29,7 +29,7 @@ Sales, Profit, Quantity
 Order Date, Ship Date, Category, and more
 
 
-*** Data Preparation & Transformation ***
+# Data Preparation & Transformation
 
 Data Cleaning: Handled missing values (e.g., filled missing postal codes with "Null").
 
@@ -38,7 +38,7 @@ Custom Columns: Converted date attributes (Order Date, Ship Date) into proper fo
 Data Modeling: Established relationships between tables based on Customer ID, Order ID, and Product ID.
 
 
-*** Visualization & Design ***
+# Visualization & Design
 
 Color Scheme:
 
@@ -49,7 +49,7 @@ Navy Blue (#094780), Blue (#118DFF)
 Pink (#E044A7), Orange (#E66C37), Grey (#666666)
 
 
-*** Font & Styles ***
+# Font & Styles
 
 Headings: Cambria (24)
 
@@ -60,7 +60,7 @@ Labels & Legends: Din (10)
 KPI Callout Values: Din (45)
 
 
-*** Files in This Repository ***
+# Files in This Repository
 
 POWER BI dashboard.pbix - dashboard
 
@@ -73,6 +73,6 @@ dataset/ – Contains the dataset used for visualization.
 documentation.pdf – Detailed project documentation.
 
 
-Sample image:
+# Sample image:
 
 ![image](https://github.com/user-attachments/assets/611b66b0-dfaa-40cd-b506-e051be2c5ab9)
